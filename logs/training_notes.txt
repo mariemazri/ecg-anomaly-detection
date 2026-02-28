@@ -1,1 +1,2 @@
 # Tests: 14 passed, training time 0.71s
+# Model: IsolationForest n=200, contamination=0.091
