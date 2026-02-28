@@ -1,0 +1,16 @@
+{
+  "split": "test",
+  "f1_anomaly": 0.3256,
+  "auroc": 0.5362,
+  "avg_precision": 0.3827,
+  "confusion_matrix": [
+    [
+      552,
+      48
+    ],
+    [
+      39,
+      21
+    ]
+  ]
+}

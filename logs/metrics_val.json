@@ -1,0 +1,16 @@
+{
+  "split": "val",
+  "f1_anomaly": 0.1698,
+  "auroc": 0.4488,
+  "avg_precision": 0.1972,
+  "confusion_matrix": [
+    [
+      563,
+      37
+    ],
+    [
+      51,
+      9
+    ]
+  ]
+}
