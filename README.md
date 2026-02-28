@@ -1,6 +1,6 @@
 # ECG Anomaly Detection with Isolation Forest
 
-> **M1 AI — Paris-Saclay** | Machine Learning Project | October 2025
+> Machine Learning Project | October 2025
 
 Unsupervised anomaly detection on synthetic ECG-like time series using **Isolation Forest**.  
 Detects three types of cardiac anomalies: spike artefacts, flat-line segments, and amplitude shifts.
